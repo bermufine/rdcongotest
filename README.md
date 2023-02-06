@@ -15,7 +15,7 @@
 
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.254.199.122:8080/veriteTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
 
-{"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
+{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
